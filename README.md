@@ -2,4 +2,4 @@ Hi, I’m @tidycozydev a freelance developer with 10+ years of experience in my 
 
 I'm mostly a Java/backend developer and a self-taught DevOps (Jenkins + Kubernetes).
 
-If you need a hand, I'll be messing around here on this repository, and here : [tidycozy.dev](https://tidycozy.dev/)
+If you need a hand, I'll be around here, on this repository, and here : [tidycozy.dev](https://tidycozy.dev/)
